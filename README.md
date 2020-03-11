@@ -2,6 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/studentsatarts/ken/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+[catdog] (https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg)
+
+the quick brown fox
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
