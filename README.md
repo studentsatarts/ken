@@ -1,13 +1,11 @@
 ## My name is Ken
 
-![Layer-1704-1920x840](https://user-images.githubusercontent.com/59803854/76431806-19eabf80-6380-11ea-870c-0877dd80fba3.jpg)
-[catdog](https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg)
-[dogcat](Layer-1704-1920x840.jpg)
+![smudge](https://user-images.githubusercontent.com/59803854/76443600-b026e180-6390-11ea-84bf-8c3de9cee141.jpg)
 
-the quick brown fox
+This is a test site
 
 # Favorite Color
-blu
+blue
 ## Favorite Animal
 cat
 ### Test
