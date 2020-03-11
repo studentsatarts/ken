@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/studentsatarts/ken/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-[catdog] (https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg)
+[catdog](https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg)
 
 the quick brown fox
 
