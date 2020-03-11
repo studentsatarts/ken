@@ -15,13 +15,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Favorite Animal
 I like cat
-## Header 2
+## Favorite Color
 
 Blue is my favorite color
-### Header 3
+### Favorite Food
 
+Parsnips
 - Bulleted
 - List
 
